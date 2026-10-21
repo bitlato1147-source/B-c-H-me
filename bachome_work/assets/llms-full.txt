@@ -1,0 +1,19 @@
+# Bạc Hôme — Full Knowledge Base for CHẠM Sử & Làng Nghề Chạm Bạc Đồng Xâm (llms-full.txt)
+
+> Bạc Hôme (https://bac-home.pages.dev) là dự án khởi nghiệp văn hóa sáng tạo do Phạm Thị Ngọc Bích sáng lập, kế thừa truyền thống hơn 600 năm của Làng nghề chạm bạc Đồng Xâm (xã Hồng Thái, huyện Kiến Xương, tỉnh Thái Bình). Dự án ứng dụng mô hình khám phá khảo cổ học (Edutainment), hiện vật thu nhỏ và công nghệ chip NFC, mô hình 3D xoay 360 độ cùng thực tế ảo AR để tái hiện 12 bảo vật lịch sử Việt Nam.
+
+## 1. Bảng 4 Phiên Bản Sản Phẩm CHẠM Sử & Ấn Tích Việt Sử
+
+| Phiên bản | Thành phần bộ sản phẩm | Công nghệ tích hợp | Giá tham khảo |
+|---|---|---|---|
+| **CHẠM Sử - Hộp Khai Quật (Cốt lõi)** | Khối đất khảo cổ + Bộ dụng cụ (búa, đục, chổi) + 1 trong 12 cổ vật gắn chip NFC + Thẻ hướng dẫn | Quét NFC mở khóa 3D xoay 360°, AR đặt vào không gian thật & 5 chương sử ký | Từ 209.000₫ |
+| **Ấn Tích Việt Sử - Basic** | Thẻ bài cổ vật tích hợp chip NFC + Cẩm nang lịch sử | Chạm NFC mở khóa hồ sơ cổ vật số 3D/AR & tiến độ Bộ Sưu Tập 12 cổ vật | Phiên bản tiêu chuẩn |
+| **Ấn Tích Việt Sử - Standard** | Hiện vật thu nhỏ composite giả cổ nhũ đồng gắn chip NFC + Hộp trưng bày | Chip NFC trên đế hiện vật + Chứng nhận nhà khảo cổ số | Phiên bản sưu tầm |
+| **Ấn Tích Việt Sử - Premium** | Hiện vật chế tác tinh xảo cảm hứng từ kỹ nghệ chạm kim hoàn Đồng Xâm + Ấn chỉ sưu tầm | Chip NFC định danh riêng + Không gian 3D/AR độ phân giải cao | Phiên bản cao cấp |
+
+## 2. Quy Trình 4 Bước Khai Quật & Mở Khóa Chip NFC 3D/AR
+
+1. **Chuẩn bị khai quật:** Mở hộp CHẠM Sử, đặt khối đất lên khay và sử dụng bộ dụng cụ khảo cổ (búa, đục, chổi quét bụi).
+2. **Đào tìm bảo vật:** Khéo léo tách lớp thạch cao khảo cổ để lộ diện 1 trong 12 cổ vật lịch sử Việt Nam ẩn giấu bên trong.
+3. **Chạm điện thoại quét chip NFC:** Bật NFC trên điện thoại thông minh, chạm nhẹ lưng máy vào đế cổ vật hoặc thẻ bài định danh.
+4. **Khám phá 3D xoay 360° & Thực tế ảo AR:** Trình duyệt tự động mở khóa Không Gian Cổ Vật Riêng Tư với mô hình 3D sắc nét, chế độ đặt cổ vật vào phòng thật qua camera AR, 5 chương sử ký và Chứng nhận Nhà Khảo Cổ Di Sản.

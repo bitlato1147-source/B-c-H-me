@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bh_van_lang",
+    "dynasty": "Văn Lang",
+    "era": "Khoảng thế kỷ VII trước Công nguyên (2524TCN - 258TCN)",
+    "artifact": "Trống Đồng Đông Sơn",
+    "description": "Thời dựng nước đầu tiên của người Việt, gắn với Vua Hùng, Lạc Long Quân và Âu Cơ. Trống đồng Đông Sơn từ thời này vẫn là biểu tượng văn hóa sống mãi tới giờ.",
+    "image": "assets/artifacts/bh_van_lang.webp"
+  },
+  {
+    "id": "bh_nha_ngo",
+    "dynasty": "Nhà Ngô",
+    "era": "939-965",
+    "artifact": "Sa hình thế trận cọc gỗ Bạch Đằng",
+    "description": "Năm 938, Ngô Quyền đánh tan quân Nam Hán trên sông Bạch Đằng, chấm dứt hơn 1000 năm Bắc thuộc. Chiến thắng này mở ra kỷ nguyên độc lập của dân tộc.",
+    "image": "assets/artifacts/bh_nha_ngo.webp"
+  },
+  {
+    "id": "bh_tien_le",
+    "dynasty": "Nhà Tiền Lê",
+    "era": "Khoảng năm 981",
+    "artifact": "Tiền Thái Bình Hưng Bảo",
+    "description": "Lê Đại Hành nối nghiệp nhà Đinh, đánh bại quân Tống xâm lược để giữ nền độc lập còn non trẻ, rồi mở mang bờ cõi về phía Nam.",
+    "image": "assets/artifacts/bh_tien_le.webp"
+  },
+  {
+    "id": "bh_nha_dinh",
+    "dynasty": "Nhà Đinh",
+    "era": "Cuối thế kỷ X (khoảng năm 968-980)",
+    "artifact": "Gạch \"Đại Việt quốc quân thành chuyên\"",
+    "description": "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước rồi lên ngôi Hoàng đế. Ông đặt quốc hiệu Đại Cồ Việt - quốc hiệu chính thức đầu tiên của nước ta.",
+    "image": "assets/artifacts/bh_nha_dinh.webp"
+  },
+  {
+    "id": "bh_nha_ly",
+    "dynasty": "Nhà Lý",
+    "era": "Thế kỷ XI - XIII (1009-1225)",
+    "artifact": "Đầu rồng thời Lý",
+    "description": "Lý Công Uẩn dời đô về Thăng Long, mở ra một kỷ nguyên rực rỡ. Phật giáo hưng thịnh, gốm sứ và chùa tháp nở rộ - Rồng thời Lý từ đó thành biểu tượng bất hủ.",
+    "image": "assets/artifacts/bh_nha_ly.webp"
+  },
+  {
+    "id": "bh_nha_tran",
+    "dynasty": "Nhà Trần",
+    "era": "Lấy cảm hứng từ hệ thống ấn tín dưới triều Trần, thế kỷ XIII - XIV (1225-1400)",
+    "artifact": "Ấn tín nhà Trần",
+    "description": "Dưới ngọn cờ của Hưng Đạo Đại Vương Trần Quốc Tuấn, quân dân nhà Trần ba lần đánh tan quân Nguyên Mông. Hào khí Đông A và Hịch tướng sĩ còn vang tới hôm nay.",
+    "image": "assets/artifacts/bh_nha_tran.webp"
+  },
+  {
+    "id": "bh_le_so",
+    "dynasty": "Lê Sơ",
+    "era": "Năm 1467, dưới thời vua Lê Thánh Tông (1428-1527)",
+    "artifact": "Rồng đá thành bậc điện Kính Thiên",
+    "description": "Lê Lợi cùng nghĩa quân Lam Sơn trải 10 năm gian khổ để đuổi giặc Minh. Nguyễn Trãi viết Bình Ngô Đại Cáo - bản Tuyên ngôn Độc lập thứ hai của dân tộc.",
+    "image": "assets/artifacts/bh_le_so.webp"
+  },
+  {
+    "id": "bh_nha_mac",
+    "dynasty": "Nhà Mạc",
+    "era": "Thế kỷ XVI",
+    "artifact": "Lư hương gốm men nâu - lam xám",
+    "description": "Mạc Đăng Dung lập triều Mạc, mở ra thời Nam - Bắc triều phân tranh. Dù còn nhiều tranh cãi, nhà Mạc vẫn để lại dấu ấn về kiến trúc, gốm sứ và buôn bán sầm uất.",
+    "image": "assets/artifacts/bh_nha_mac.webp"
+  },
+  {
+    "id": "bh_le_trung_hung",
+    "dynasty": "Lê Trung Hưng - Trịnh",
+    "era": "Khoảng thế kỷ XVI - XVIII, nổi bật từ năm 1533 đến cuối thế kỷ XVIII",
+    "artifact": "Súng thần công",
+    "description": "Ở Đàng Ngoài, vua Lê chỉ còn là biểu tượng, quyền thực nằm trong tay chúa Trịnh. Đây cũng là thời súng thần công và kỹ thuật quân sự phát triển mạnh.",
+    "image": "assets/artifacts/bh_le_trung_hung.webp"
+  },
+  {
+    "id": "bh_chua_nguyen",
+    "dynasty": "Chúa Nguyễn (Đàng Trong)",
+    "era": "Khoảng thế kỷ XVI - XVIII, từ năm 1558 đến 1777",
+    "artifact": "Thuyền chiến Đàng Trong",
+    "description": "Các chúa Nguyễn mở cõi về phương Nam, dựng Đàng Trong thành vùng đất trù phú. Thuyền chiến lớn bảo vệ biển, còn cảng Hội An buôn bán tấp nập với thế giới.",
+    "image": "assets/artifacts/bh_chua_nguyen.webp"
+  },
+  {
+    "id": "bh_tay_son",
+    "dynasty": "Tây Sơn",
+    "era": "Cuối thế kỷ XVIII, gắn với phong trào Tây Sơn và chiến thắng Ngọc Hồi - Đống Đa năm 1789.",
+    "artifact": "Tượng voi chiến Tây Sơn",
+    "description": "Quang Trung - Nguyễn Huệ thống nhất đất nước, rồi thần tốc đánh tan 29 vạn quân Thanh mùa Xuân Kỷ Dậu 1789. Một trong những chiến thắng vĩ đại nhất lịch sử Việt Nam.",
+    "image": "assets/artifacts/bh_tay_son.webp"
+  },
+  {
+    "id": "bh_nha_nguyen",
+    "dynasty": "Nhà Nguyễn",
+    "era": "Năm Minh Mạng thứ 4 (1823).",
+    "artifact": "Ấn vàng “Hoàng đế chi bảo”",
+    "description": "Triều đại phong kiến cuối cùng: Gia Long thống nhất giang sơn, đặt kinh đô ở Huế. Cung đình Huế với ấn vàng và Đại Nội nay là Di sản Thế giới của UNESCO.",
+    "image": "assets/artifacts/bh_nha_nguyen.webp"
+  }
+]

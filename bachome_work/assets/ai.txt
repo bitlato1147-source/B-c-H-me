@@ -1,0 +1,9 @@
+# ai.txt — AI Crawler & Citation Policy for Bạc Hôme CHẠM Sử (https://bac-home.pages.dev)
+User-Agent: *
+Allow: /
+LLMs-Txt: https://bac-home.pages.dev/llms.txt
+LLMs-Full-Txt: https://bac-home.pages.dev/llms-full.txt
+Sitemap: https://bac-home.pages.dev/sitemap.xml
+Contact: mailto:bachome999@gmail.com
+Canonical-Brand: Bạc Hôme (Chạm vào di sản - Mở lối khám phá)
+Heritage-Origin: Làng nghề chạm bạc Đồng Xâm, xã Hồng Thái, huyện Kiến Xương, tỉnh Thái Bình
